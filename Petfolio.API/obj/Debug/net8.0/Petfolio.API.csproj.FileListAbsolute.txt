@@ -34,3 +34,4 @@ C:\Users\Pichau\source\repos\Petfolio\Petfolio.API\bin\Debug\net8.0\Petfolio.App
 C:\Users\Pichau\source\repos\Petfolio\Petfolio.API\bin\Debug\net8.0\Petfolio.Communication.dll
 C:\Users\Pichau\source\repos\Petfolio\Petfolio.API\bin\Debug\net8.0\Petfolio.Application.pdb
 C:\Users\Pichau\source\repos\Petfolio\Petfolio.API\bin\Debug\net8.0\Petfolio.Communication.pdb
+C:\Users\Pichau\source\repos\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.sourcelink.json
